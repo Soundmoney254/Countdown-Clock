@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Countdown-Clock/static/css/main.00e178d6.css",
+    "main.js": "/Countdown-Clock/static/js/main.8530e73a.js",
+    "static/js/787.482db2ac.chunk.js": "/Countdown-Clock/static/js/787.482db2ac.chunk.js",
+    "index.html": "/Countdown-Clock/index.html",
+    "main.00e178d6.css.map": "/Countdown-Clock/static/css/main.00e178d6.css.map",
+    "main.8530e73a.js.map": "/Countdown-Clock/static/js/main.8530e73a.js.map",
+    "787.482db2ac.chunk.js.map": "/Countdown-Clock/static/js/787.482db2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e178d6.css",
+    "static/js/main.8530e73a.js"
+  ]
+}
