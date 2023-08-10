@@ -11,7 +11,7 @@ const CountdownClock = () => {
     });
 
     useEffect(() => {
-        const countDownDate = new Date("Aug 31, 2023 23:59:59").getTime();
+        const countDownDate = new Date("Aug 11, 2023 14s:59:59").getTime();
 
         const interval = setInterval(() => {
             const now = new Date().getTime();
